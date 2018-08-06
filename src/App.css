@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: bisque;
+}
+
+.app_parent {
+display:flex;
+flex-direction: column;
+}
+.app_forecast {
+  float: left;
+  margin-top: 20px;
+
+}
+.app_workouts{
+  float: left;
+  margin-left: 10px
+}
+.app_button {
+  float: left;
+  margin-top: 15px;
+  padding-left: 30px;
+  align-items: center;
+}
+.forecast_header{
+  font-size: 24px;
+  margin-top: 20px;
+}
+.forecast_subheader{
+  font-size: 16px;
+}
+.forecast_button{
+align-self: center;
+margin-top: 10px;
+
+}
+.for_input{
+  align-self: center
+}
+
+
+

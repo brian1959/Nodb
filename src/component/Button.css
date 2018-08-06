@@ -1,0 +1,15 @@
+.button_mine {
+    background-color: antiquewhite;
+    font-size: 12px;
+    font-family: sans-serif;
+    border:solid 1px dimgray;
+    border-radius: 10px;
+    display: inline;
+    margin: 5px 20px 15px 20px;
+    padding: 5px 8px;
+}
+
+.button_mine:hover{
+    background-color: goldenrod;
+    font-weight: bold;
+    }

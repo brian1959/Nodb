@@ -1,0 +1,15 @@
+.forecast_parent {
+    float: left;
+    height: 10vh;
+    width: 15vw;
+    
+}
+.forecast_box{
+    height: 9vh;
+    width: inherit;
+    padding: 0 10px;
+}
+.forecast_box h2 {
+    font-size: 14px;
+    font-family: sans-serif 
+}

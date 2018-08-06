@@ -1,0 +1,15 @@
+.input_mine {
+    background-color: antiquewhite;
+    font-size: 12px;
+    font-family: sans-serif;
+    border:solid 2px dimgray;
+    display: inline;
+    margin: 5px 20px 15px 20px;
+    padding: 5px 8px;
+    height: 20px;
+    width: 60px;
+}
+
+.input_mine:hover{
+    background-color: goldenrod;
+    }
